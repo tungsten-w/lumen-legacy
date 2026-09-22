@@ -4,6 +4,7 @@
 
 **The bash scripts that became [lumen](https://github.com/tungsten-w/lumen).**
 
+
 ![status](https://img.shields.io/badge/status-legacy-C36EFF?style=flat-square) ![Bash](https://img.shields.io/badge/built_with-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Hyprland](https://img.shields.io/badge/Wayland-Hyprland-9ED53C?style=flat-square&logo=hyprland&logoColor=white)
 
 </div>
@@ -59,5 +60,7 @@ Then bind the main script in your Hyprland config:
 ```ini
 bind = SUPER, W, exec, ~/.config/.scripts/wallpaper_light-dark.sh
 
-thanks you!
+
 ```
+
+thanks you ! 
